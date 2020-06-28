@@ -9,7 +9,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-num_division=num2/num1
+num_division=num2.div(num1)
 num_division
 end
 
