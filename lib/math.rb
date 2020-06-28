@@ -24,6 +24,6 @@ number_modulo
 end
 
 def square_root(num)
-number_square= num**(1/2)
+number_square= sqrt(num)
 number_square
 end
