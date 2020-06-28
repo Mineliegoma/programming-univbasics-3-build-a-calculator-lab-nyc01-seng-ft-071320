@@ -19,7 +19,7 @@ num_multiplication
 end
 
 def modulo(num1, num2)
-number_modulo=num2%num1
+number_modulo=num1%num2
 number_modulo
 end
 
